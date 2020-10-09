@@ -6,8 +6,10 @@ https://scrimba.com/course/glearnreact
 // Render an App component (defined in a separate file)<br />
 // Inside App, render:<br />
   &nbsp;&nbsp;&nbsp;&nbsp;
-// 1. A Navbar component
+// 1. A Navbar component<br />
+
   &nbsp;&nbsp;&nbsp;&nbsp;
-// 2. A MainContent component
+// 2. A MainContent component<br />
+
   &nbsp;&nbsp;&nbsp;&nbsp;
 // 3. A Footer component
